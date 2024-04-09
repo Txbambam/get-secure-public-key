@@ -3,7 +3,7 @@ import bech32
 
 
 # Step 1: Decode the address
-address = 'bc1qqnyt9pdsdx9uue6cwyjgcwxnl2les7lvu8t0ve'
+address = 'bc1qyr2956nky56hqr8fuzepdccejse4mw994lyftn'
 decoded = bech32.decode('bc', address)
 print('Decoded address:', decoded)
 
